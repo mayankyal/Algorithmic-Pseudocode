@@ -84,7 +84,7 @@
 </details>
 
 <details>
-	<summary>Clone a List with Random Pointers (Advanced)</summary>
+	<summary><ins>Clone a List with Random Pointers (Advanced)</ins></summary>
 
 * [Question Link](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)
 * [Analysis and Solution 1](https://leetcode.com/problems/copy-list-with-random-pointer/discuss/258935/Detailed-Explanation-with-Pictures-C%2B%2BJavaScript)
