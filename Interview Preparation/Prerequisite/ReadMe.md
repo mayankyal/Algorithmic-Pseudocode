@@ -74,7 +74,7 @@
 
 
 <details>
-	<summary>Reorder a List in a Certain Fashion</summary>
+	<summary><ins>Reorder a List in a Certain Fashion</ins></summary>
 
 * [Question Link](https://practice.geeksforgeeks.org/problems/reorder-list/1)
 * An excellent question to test several concepts of Linked Lists. 
